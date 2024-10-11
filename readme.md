@@ -1,4 +1,4 @@
-# MongoDB Lab 8 Submission
+# MongoDB
 Roll Number: 2024204018
 
 ## Instructions to Run
